@@ -1,0 +1,9 @@
+[package]
+name = "bday_warning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winapi = "0.2.7"
+user32-sys = "0.2.0"
+chrono = "0.4"
